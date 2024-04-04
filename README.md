@@ -10,7 +10,7 @@ Este projeto oferece funcionalidades para gerenciar livros, funcionario, cliente
 
 - Cadastro, atualização, exclusão e consulta de livros.
 - Cadastro, atualização, exclusão e consulta de funcionario.
-- Cadastro, atualização, exclusão e consulta de funcionario.
+- Cadastro, atualização, exclusão e consulta de cliente.
 - Empréstimo de livros.
 - Devolução de livros.
 
